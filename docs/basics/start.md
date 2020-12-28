@@ -24,7 +24,7 @@ Les jetons bloqués sont délégués par le propriétaire de KEEP à l'adresse d
 ?> Checkout latest version of this document in english [here](https://keepdocs.github.io/#/).
 
 ---
-`Source de la documentation officielle de Keep Team, éditée et ajoutée par la communauté. '[Source](https://keep-network.gitbook.io/staking-documentation/) `
+`Source de la documentation officielle de Keep Team, éditée et ajoutée par la communauté. [Source](https://keep-network.gitbook.io/staking-documentation/) `
 
 ʻAuteurs: Ramaruro, EstebanK`
 `Traduction: Evelyn`
