@@ -1,4 +1,4 @@
-! [Intro] (/ assets / images / keepdocgraf.jpg)
+! [Intro](/assets/images/keepdocgraf.jpg)
 
 
 # En premier
@@ -12,16 +12,19 @@ Les jetons bloqués sont délégués par le propriétaire de KEEP à l'adresse d
 
 ## Contenu
 
-- [Introduction:] (basics / intro.md): Introduction à Keep Network et au tBTC.
-- [Principales raisons de miser sur Keep Network:] (Reasons /easons.md) Comprenez pourquoi il est logique de parier sur Keep Network.
-- [Comparaison avec des alternatives:] (comparaison / comparesimilar.md) Comparez Keep Staking avec des alternatives actuellement disponibles en crypto-monnaie.
-- [Documentation de jalonnement:] (stakingdoc / keep101.md) Conserve la documentation officielle de l'équipe sur le jalonnement.
-- [Options de jalonnement:] (stakingdoc / stakingoptions.md) Avec des partenaires ou sur votre propre serveur (nœud).
-- [Variantes de nœuds:] (Node-Operation / intro-operation.md) Lancez, gérez, dépannez sur votre propre nœud.
+- [Introduction :](basics/intro.md) Introduction à Keep Network et au tBTC.
+- [Principales raisons de miser sur Keep Network :](Reasons/easons.md) Comprenez pourquoi il est logique de parier sur Keep Network.
+- [Comparaison avec des alternatives :](comparison/comparesimilar.md) Comparez Keep Staking avec des alternatives actuellement disponibles en crypto-monnaie.
+- [Documentation de jalonnement :](stakingdoc/keep101.md) Conserve la documentation officielle de l'équipe sur le jalonnement.
+- [Options de jalonnement :](stakingdoc/stakingoptions.md) Avec des partenaires ou sur votre propre serveur (nœud).
+- [Variantes de nœuds :](Node-Operation/intro-operation.md) Lancez, gérez, dépannez sur votre propre nœud.
 - https://dashboard.keep.network/ Tableau de bord officiel Keep Network.
 
+
+?> Checkout latest version of this document in english [here](https://keepdocs.github.io/#/).
+
 ---
-`Source de la documentation officielle de Keep Team, éditée et ajoutée par la communauté. '[Source] (https://keep-network.gitbook.io/staking-documentation/) `
+`Source de la documentation officielle de Keep Team, éditée et ajoutée par la communauté. '[Source](https://keep-network.gitbook.io/staking-documentation/) `
 
 ʻAuteurs: Ramaruro, EstebanK`
 `Traduction: Evelyn`
